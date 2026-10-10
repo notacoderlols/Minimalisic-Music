@@ -5,7 +5,10 @@
   "creators": ["notacoderlols"],
   "minVersion": "2.2.0",
   "hasShaders": false,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "tags": ["minimal", "aesthetic"],
-  "images": ["Preview.png", "Final-optimized.webp"]
+  "images": ["Preview.png", "Final.webp"]
 }
+
+
+
